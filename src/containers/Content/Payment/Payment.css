@@ -1,0 +1,18 @@
+.payment {
+    width: 398px;
+    height: 120px;
+    border-radius: 5px;
+    background: #EBF5FB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.payment img {
+    display: flex;
+    margin-right: 18px;
+}
+
+.payment.selected {
+    background: #5CADE1;
+}

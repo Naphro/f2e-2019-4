@@ -1,0 +1,17 @@
+.plan {
+    width: 398px;
+    height: 327px;
+    border-radius: 5px;
+    background: #EBF5FB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.plan img {
+    display: flex;
+}
+
+.plan.selected {
+    background: #5CADE1;
+}

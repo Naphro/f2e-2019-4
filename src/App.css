@@ -1,3 +1,8 @@
+* {
+    font-family: "Taipei Sans TC Beta", sans-serif;
+    box-sizing: border-box;
+}
+
 .App {
     width: 1920px;
     height: 1080px;

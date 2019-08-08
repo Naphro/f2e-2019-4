@@ -2,40 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaa5faf1-af3a-47d1-82c9-0ddfd80eda72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/icon_processing.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/photo_order done.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Action/Action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/CreditCard/CreditCard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/CreditCard/CreditCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Finish/Finish.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Finish/Finish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Purchase/Purchase.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Action/Action.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Action/Action.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Action/Action.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Action/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Finish/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Content.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/CreditCard/CreditCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/CreditCard/CreditCard.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/CreditCard/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/CreditCard/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Payment/Payment.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Payment/Payment.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Payment/Payment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Payment/Payment.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Payment/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Payment/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Plan/Plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Plan/Plan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Plan/Plan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Plan/Plan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Plan/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Plan/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Purchase.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/Purchase.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/Purchase.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Purchase/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Purchase/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +69,16 @@
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="npm start" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -110,6 +89,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -125,6 +109,14 @@
       <workItem from="1565193471904" duration="6527000" />
       <workItem from="1565239148788" duration="1850000" />
     </task>
+    <task id="LOCAL-00001" summary="router">
+      <created>1565281649404</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565281649404</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="router" />
+    <option name="LAST_COMMIT_MESSAGE" value="router" />
   </component>
 </project>

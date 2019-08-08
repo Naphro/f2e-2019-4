@@ -7,7 +7,7 @@ import './index.css';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-    <BrowserRouter>
+    <BrowserRouter basename="/f2e-2019-4">
         {renderRoutes(routes)}
     </BrowserRouter>,
     document.getElementById('root'));

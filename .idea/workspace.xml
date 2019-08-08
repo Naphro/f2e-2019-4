@@ -2,30 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eaa5faf1-af3a-47d1-82c9-0ddfd80eda72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/photo_24hr_unselected.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/photo_30days_unselected.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/photo_3hr_unselected.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/svg/photo_90days_unselected.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Content/Action/Action.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Content/Content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Content/Payment/Payment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Content/Payment/Payment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Content/Payment/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/svg/icon_finished step.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/svg/icon_jcb.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/svg/icon_mastercard.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/svg/icon_visa.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Content/CreditCard/CreditCard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Content/CreditCard/CreditCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Content/CreditCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Purchase.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Purchase.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/svg/icon_atm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svg/icon_atm.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/svg/icon_barcode.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svg/icon_barcode.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/svg/icon_credit card.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svg/icon_credit card.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/svg/icon_paypal.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svg/icon_paypal.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/svg/组 31.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svg/组 31.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/svg/photo_90days_selected.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/svg/photo_90days_selected.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Content.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Content.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Content/Content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Product/Action/Action.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Action/Action.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Product/Action/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Action/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Product/Product.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Plan/Plan.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Product/Product.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Plan/Plan.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Content/Product/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Plan/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Payment/Payment.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Payment/Payment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Payment/Payment.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Payment/Payment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Payment/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Payment/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Plan/Plan.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Plan/Plan.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Plan/Plan.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Plan/Plan.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Content/Plan/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Content/Purchase/Plan/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,10 +62,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/svg" />
       <recent name="C:\TGFC_DEV\f2e-2019-4\src\assets\svg" />
+      <recent name="$PROJECT_DIR$/src/assets/svg" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\TGFC_DEV\f2e-2019-4\src\containers\Content\Purchase" />
+      <recent name="C:\TGFC_DEV\f2e-2019-4\src\containers\Content\Purchase\" />
       <recent name="$PROJECT_DIR$/src/containers/Content/" />
       <recent name="C:\TGFC_DEV\f2e-2019-4\src\containers\Content" />
     </key>
@@ -110,6 +111,7 @@
       <updated>1565139202361</updated>
       <workItem from="1565139203840" duration="5581000" />
       <workItem from="1565193471904" duration="6527000" />
+      <workItem from="1565239148788" duration="1850000" />
     </task>
     <servers />
   </component>

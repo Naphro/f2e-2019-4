@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC:400,700&display=swap');
+
 * {
-    font-family: "Taipei Sans TC Beta", sans-serif;
+    font-family: 'Taipei Sans TC Beta', 'Noto Sans TC', sans-serif;
+    font-weight: bold;
     box-sizing: border-box;
 }
 

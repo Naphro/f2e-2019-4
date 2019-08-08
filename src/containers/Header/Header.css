@@ -16,9 +16,17 @@
 
 .step {
     color: #999999;
+    display: flex;
+    align-items: center;
 }
 
-.step--active {
+.step img {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+}
+
+.step.active {
     color: #5CADE1;
 }
 
@@ -33,7 +41,7 @@
     line-height: 41px;
 }
 
-.step--active .step__index {
+.step.active .step__index {
     border: 2px solid #5CADE1;
     background: #5CADE1;
     color: #FBFCFE;

@@ -6,7 +6,17 @@
     box-sizing: border-box;
 }
 
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 .App {
     width: 1920px;
     height: 1080px;
+}
+
+.content {
+    margin: 65px auto 69px auto;
 }

@@ -10,8 +10,8 @@
     width: 80px;
 }
 
-.active {
-
+.action:hover {
+    cursor: pointer;
 }
 
 .action__name {

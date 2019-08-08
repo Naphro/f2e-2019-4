@@ -1,15 +1,18 @@
 import React from 'react'
 import './App.css'
-import { Header } from './containers/Header'
-import { Content } from './containers/Content/'
+import {Header} from './containers/Header'
+import {renderRoutes} from "react-router-config";
 
-function App () {
-  return (
-    <div className="App">
-      <Header></Header>
-      <Content></Content>
-    </div>
-  )
+function App(props) {
+    console.log(props)
+    return (
+        <div className="App">
+            <Header {...props}></Header>
+            <div className="content">
+                {renderRoutes(props.route.routes)}
+            </div>
+        </div>
+    )
 }
 
 export default App

@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eaa5faf1-af3a-47d1-82c9-0ddfd80eda72" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/CreditCard/CreditCard.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/CreditCard/CreditCard.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Finish/Finish.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Finish/Finish.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,16 +41,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/svg" />
+      <recent name="C:\TGFC_DEV\f2e-2019-4\src\assets\svg" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/containers/" />
       <recent name="C:\TGFC_DEV\f2e-2019-4\src\containers\Content\Purchase" />
       <recent name="C:\TGFC_DEV\f2e-2019-4\src\containers\Content\Purchase\" />
       <recent name="$PROJECT_DIR$/src/containers/Content/" />
       <recent name="C:\TGFC_DEV\f2e-2019-4\src\containers\Content" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/assets/svg" />
-      <recent name="C:\TGFC_DEV\f2e-2019-4\src\assets\svg" />
     </key>
   </component>
   <component name="RunDashboard">

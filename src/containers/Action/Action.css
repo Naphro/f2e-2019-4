@@ -12,6 +12,8 @@
 
 .action:hover {
     cursor: pointer;
+    text-shadow: 0 0 3px #333333;
+    color: #EBF5FB;
 }
 
 .action__name {
